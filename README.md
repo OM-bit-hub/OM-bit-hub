@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="header.png">
 <h1 align="center">Hi 👋, I'm Om Dhengle</h1>
 <h3 align="center">I'm passionate about AI/ML stuff 🤖</h3>
- <img src="" width="30%" align="right">
+ <img src="coding-freak.gif" width="30%" align="right">
 
 
 - 📫 How to reach me **om.dhengle@gmail.com**
