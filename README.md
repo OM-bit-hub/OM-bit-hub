@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <img src="header.png">
 <h1 align="center">Hi 👋, I'm Om Dhengle</h1>
 <h3 align="center">I'm passionate about AI/ML stuff 🤖</h3>
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1360%2F0*7Q3yvSIv_t0ioJ-Z.gif&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwiR5_nZ9tCDAxWkSmwGHUVpCIgQMygDegQIARB8..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=animated%20coding%20gif&ved=2ahUKEwiR5_nZ9tCDAxWkSmwGHUVpCIgQMygDegQIARB8" align="right" alt="gif" width="400" height="300">
+ <img src="" width="30%" align="right">
 
 
 - 📫 How to reach me **om.dhengle@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<hr>
+
 <p align="left">
 </p>
 <!--My Skill Section-->
