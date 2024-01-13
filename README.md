@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 <p align="left">
-	<h4> Programming Lanauges</h4><p>
+	<h4> Programming Lanauges:</h4><p>
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/c.svg" alt="C" width="40" height="40" />&nbsp;
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
-	<h4> Frameworks</h4><p>
+	<h4> Frameworks:</h4><p>
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 <!-- 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp; -->
 <!-- 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp; -->
 <!-- 	<img src="download.png" alt="Scikit Learn" width="60" height="40" />&nbsp; -->
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
-    <h4>Software Packages</h4><p>
+    <h4>Software Packages:</h4><p>
   <img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
 	<img src="https://github.com/OM-bit-hub/OM-bit-hub/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
 
